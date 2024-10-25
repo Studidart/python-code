@@ -1,0 +1,12 @@
+RLCS 1999-20 Fall Major Quarterfinals,1999-02-05,JustinBot,3,200
+RLCS 2022-23 Fall Major Semifinals,2023-02-19,Squishy,4,1
+RLCS 2022-23 Winter Major Group Stage,2023-03-05,GarrettG,2,3
+RLCS 2022-23 Winter Major Playoffs,2023-03-19,JustinBot,5,4
+RLCS 2022-23 Spring Split Regional 1,2023-04-02,Squishy,1,3
+RLCS 2022-23 Spring Split Regional 2,2023-04-16,GarrettG,3,2
+RLCS 2022-23 Spring Major Group Stage,2023-04-30,JustinBot,4,3
+RLCS 2022-23 Spring Major Playoffs,2023-05-14,Squishy,2,1
+RLCS 2022-23 World Championship Swiss Stage,2023-05-28,GarrettG,3,5
+RLCS 2022-23 World Championship Playoffs,2023-06-11,JustinBot,1,2
+RLCS 2023-24 Fall Split Regional 1,2023-06-25,Squishy,4,2
+RLCS 2023-24 Fall Split Regional 2,2023-07-09,GarrettG,3,3
